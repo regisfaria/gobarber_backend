@@ -1,0 +1,13 @@
+coverage/
+
+node_modules/
+.env
+*.log
+ormconfig.json
+
+tmp/*.jpg
+tmp/*.jpeg
+tmp/*.png
+tmp/uploads/*.jpg
+tmp/uploads/*.jpeg
+tmp/uploads/*.png
